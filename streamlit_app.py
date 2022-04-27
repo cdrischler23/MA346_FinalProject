@@ -39,5 +39,5 @@ st.write('According to my logistic regression model, a(n) ', age, 'year old ', g
 image = Image.open('Titanic.jpg')
 st.image(image)
 
-st.write("Link to Deepnote Project where logistic model created: https://deepnote.com/workspace/carly-drischler-e53a01f0-68c1-4943-80f9-3146f92cf957/project/Final-Project-Streamlit-a75109f5-32ac-4a65-be21-b78b560cfd1f/%2Ffinal_project.ipynb")
-st.write("Link to Analysis Report: https://bentleyedu-my.sharepoint.com/:w:/g/personal/cdrischler_falcon_bentley_edu/EROjVT44cJdHhEA8or1A-E0Bk4JoFhsFxBEvKN8IfBzoHQ?e=F1q09D")
+st.write("[Link](https://deepnote.com/workspace/carly-drischler-e53a01f0-68c1-4943-80f9-3146f92cf957/project/Final-Project-Streamlit-a75109f5-32ac-4a65-be21-b78b560cfd1f/%2Ffinal_project.ipynb) to Deepnote Project where logistic model created.")
+st.write("[Link](https://bentleyedu-my.sharepoint.com/:w:/g/personal/cdrischler_falcon_bentley_edu/EROjVT44cJdHhEA8or1A-E0Bk4JoFhsFxBEvKN8IfBzoHQ?e=F1q09D) to Analysis Report: ")
